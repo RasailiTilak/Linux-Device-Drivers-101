@@ -104,7 +104,7 @@ i
 # Multipass reluch and installing utilities 
 ## host os (windows, linux, mac)
 - multipass 
-- multipass lists (if stopped )
+- multipass list (if stopped )
 - multipass shell 
 
 
